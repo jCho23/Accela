@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C1F8DD7E-A820-4E63-A125-73F2BC1BA853}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Accela/Tests.cs">
+    <Files>
+      <File FileName="Accela/AppInitializer.cs" Line="33" Column="4" />
+      <File FileName="Accela/Tests.cs" Line="76" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Accela" expanded="True">
+            <Node name="Accela" expanded="True">
+              <Node name="Accela" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Accela PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
